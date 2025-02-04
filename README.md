@@ -29,7 +29,7 @@ To get started with the Weather App, follow these steps:
 
 2. **Install dependencies**:
    ```bash
-   npm install body-parser dotenv express
+   npm install body-parser dotenv express express-rate-limit moment
    ```
 
 3. **Set up environment variables**:
